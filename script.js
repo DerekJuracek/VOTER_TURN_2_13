@@ -45,7 +45,7 @@ let popup = new mapboxgl.Popup({
   closeButton: true,
   closeOnClick: true,
   maxWidth: "none",
-  anchor: 'right',
+  anchor: 'center',
 });
 
 // used to change mapbox styles on input id
